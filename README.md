@@ -1,6 +1,7 @@
 **Assignments completed for CIND110 - Data Organization for Data Analysts course**
 
 **Course Description**
+
 This course provides a foundation in data management for data analysts. Topics include database architectures, 
 formation of queries, queries themselves, data warehousing, relational database systems, NoSQL, and responsibilities of data management professionals.
 
